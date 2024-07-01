@@ -73,7 +73,7 @@ function App() {
   }
 
   return (
-    <div className='m-2 sm:m-4 md:m-6 lg:m-10'>
+    <div className='m-2 sm:m-4 md:m-6 lg:m-8'>
       <h1 className='text-center font-bold text-2xl sm:text-3xl md:text-4xl lg:text-3xl'>Tic-Tac-Toe Game</h1>
       {winner && (
         <div className='text-center'>
